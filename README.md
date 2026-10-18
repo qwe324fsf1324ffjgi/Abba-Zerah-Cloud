@@ -12,7 +12,6 @@ I'm open to Cloud/DevOps opportunities, technical collaborations, engineering di
 - **WhatsApp:** [Message me on WhatsApp](https://wa.link/uv1be4)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/zerah-abba-a96233269/)
 
-**Recruiters and hiring teams:** Feel free to contact me directly about relevant opportunities. I'm happy to discuss my projects, technical decisions, and engineering approach.
 
 # I Use AI to Engineer Better Infrastructure — Not Just to Write More Code.
 
