@@ -3,6 +3,17 @@ Zerah Abba <zerahabba1@gmail.com>
 2:51 PM (2 minutes ago)
 to me, zerahabba9
 
+## 📬 Contact Me
+
+I'm open to Cloud/DevOps opportunities, technical collaborations, engineering discussions, and professional introductions.
+
+- **Email:** [zerahabba1@gmail.com](mailto:zerahabba1@gmail.com)
+- **Phone:** [+234 802 702 4341](tel:+2348027024341)
+- **WhatsApp:** [Message me on WhatsApp](https://wa.link/uv1be4)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/zerah-abba-a96233269/)
+
+**Recruiters and hiring teams:** Feel free to contact me directly about relevant opportunities. I'm happy to discuss my projects, technical decisions, and engineering approach.
+
 # I Use AI to Engineer Better Infrastructure — Not Just to Write More Code.
 
 **Cloud & DevOps Engineer | AWS | Infrastructure Automation | SRE | Cloud Security | AI-Assisted Engineering**
@@ -251,4 +262,19 @@ I am building the habit of learning deliberately, using AI responsibly, and prod
 **Research. Plan. Implement. Verify. Improve. Repeat.**
 
 That is the engineering journey I am building in public.
+
+---
+
+## 🤝 Let's Connect
+
+Have an opportunity, a technical question, or an idea for collaboration? I'd be glad to hear from you.
+
+**📧 Email:** [zerahabba1@gmail.com](mailto:zerahabba1@gmail.com)  
+**📱 Phone:** [+234 802 702 4341](tel:+2348027024341)  
+**💬 WhatsApp:** [Start a conversation](https://wa.link/uv1be4)  
+**💼 LinkedIn:** [Zerah Abba](https://www.linkedin.com/in/zerah-abba-a96233269/)
+
+I welcome conversations with recruiters, engineering teams, fellow cloud engineers, and people building useful technology.
+
+**Research. Plan. Implement. Verify. Improve. Repeat.**
 
