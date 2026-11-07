@@ -1,7 +1,5 @@
 
 Zerah Abba <zerahabba1@gmail.com>
-2:51 PM (2 minutes ago)
-to me, zerahabba9
 
 ## 📬 Contact Me
 
