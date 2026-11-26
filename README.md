@@ -122,6 +122,20 @@ That question is central to how I approach reliability and operations.
 
 ---
 
+## ☁️ Featured Project: Recoverable AWS EC2 Website
+
+I built an HTTPS landing page on a single Amazon Linux 2023 instance running Nginx in Stockholm. The assessment allowed downtime during recovery, so I provisioned a subnet in a second Availability Zone and tested how to bring the site back at the same public address.
+
+* **Recovery.** In a controlled drill, I replaced the instance in `eu-north-1a` with one in `eu-north-1b`, retained the Elastic IP, and verified HTTPS and the restored file hashes. In a separate drill, I recovered a corrupted `index.html` from a snapshot. I also verified that the daily backup policy produced an encrypted root-volume snapshot.
+* **Secure access and threat visibility.** I opened a logged shell through AWS Systems Manager Session Manager using a restricted operator role and temporary credentials. Inbound SSH stayed closed. CloudTrail recorded AWS API activity, and GuardDuty monitored for threats.
+* **Content integrity.** During operating hours, a Lambda function checked HTTPS, `/healthz`, and the SHA-256 hashes of the served HTML and CSS. When I deliberately changed the page, the site still returned HTTP 200, but the hash check caught the change and a CloudWatch alarm reached my inbox through SNS.
+* **Daily operations.** Patch Manager installed approved OS updates. The recorded run showed zero missing patches, zero failures, and no pending reboot. CloudTrail also confirmed that EventBridge Scheduler stopped the instance at 19:00 Lagos time on 14 November 2026 and started it at 07:00 the next morning.
+* **Reproducible deployment.** I defined the infrastructure in Terraform and documented how to deploy it into a fresh AWS account with separate credentials and state. The assessed deployment passed validation and its Terraform plan reported no changes. A second-account deployment remains untested.
+
+[Project repository](https://github.com/qwe324fsf1324ffjgi/ec2-technical-test) · [Screenshots and verification records](https://github.com/qwe324fsf1324ffjgi/ec2-technical-test#screenshot-evidence)
+
+---
+
 ## 🛠️ More of My Engineering Work
 
 ### Advanced
