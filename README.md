@@ -1,6 +1,12 @@
 
 Zerah Abba <zerahabba1@gmail.com>
 
+## Watch my cloud portfolio
+
+Prefer a quick video overview? [Watch the walkthrough](https://drive.google.com/file/d/1n0Y8TBAnYNYSPs-6oXW3_kO8uvyBEGMK/preview) to see what I built on AWS.
+
+[![Play the cloud portfolio walkthrough by Zerah Abba](https://drive.google.com/thumbnail?id=1Dzz5TEmAiUlb82Kq4lZTXwkDvSW3Y-Nj&sz=w1280)](https://drive.google.com/file/d/1n0Y8TBAnYNYSPs-6oXW3_kO8uvyBEGMK/preview)
+
 ## 📬 Contact Me
 
 I'm open to Cloud/DevOps opportunities, technical collaborations, engineering discussions, and professional introductions.
